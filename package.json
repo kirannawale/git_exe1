@@ -1,0 +1,29 @@
+{
+  "name": "kiran",
+  "version": "1.0.0",
+  "description": "git exercise1",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kirannawale/git_exe1.git"
+  },
+  "keywords": [
+    "git",
+    "learning",
+    "trying"
+  ],
+  "author": "kiran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kirannawale/git_exe1/issues"
+  },
+  "homepage": "https://github.com/kirannawale/git_exe1#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.3"
+  }
+}
